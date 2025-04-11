@@ -10,4 +10,5 @@
 - 🔁 Estructura modular y escalable
 - 🐍 Basado en librerías robustas como `pandas`, `numpy`, `sqlalchemy`, entre otras
 - 🛠️ Adaptable a distintos entornos: local, servidores o nube
-- 📊
+- 📊 Pensado para proyectos de análisis de datos, inteligencia de negocios y más
+
